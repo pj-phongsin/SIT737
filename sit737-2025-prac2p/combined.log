@@ -1,0 +1,13 @@
+{"level":"error","message":"n1 is incorrectly defined","service":"add-service"}
+{"level":"info","message":"Parameters 5 and 10 received for addition","service":"add-service"}
+{"level":"error","message":"n2 is incorrectly defined","service":"add-service"}
+{"level":"info","message":"Parameters 5 and 10 received for addition","service":"add-service"}
+{"level":"info","message":"Parameters 10 and 5 received for addition","service":"add-service"}
+{"level":"error","message":"n2 is incorrectly defined","service":"add-service"}
+{"level":"info","message":"Parameters 5 and 5 received for multiplication","service":"add-service"}
+{"level":"error","message":"n2 is incorrectly defined","service":"add-service"}
+{"level":"info","message":"Parameters 10 and 5 received for devide","service":"add-service"}
+{"level":"error","message":"n2 is incorrectly defined","service":"add-service"}
+{"level":"error","message":"n1 is incorrectly defined","service":"user-service"}
+{"level":"info","message":"Parameters 50 and 10 received for addition","service":"user-service"}
+{"level":"info","message":"Parameters 50 and 10 received for multiplication","service":"user-service"}
