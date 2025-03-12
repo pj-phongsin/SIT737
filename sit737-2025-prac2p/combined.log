@@ -11,3 +11,5 @@
 {"level":"error","message":"n1 is incorrectly defined","service":"user-service"}
 {"level":"info","message":"Parameters 50 and 10 received for addition","service":"user-service"}
 {"level":"info","message":"Parameters 50 and 10 received for multiplication","service":"user-service"}
+{"level":"error","message":"n1 is incorrectly defined","service":"user-service"}
+{"level":"info","message":"Parameters 25 and 5 received for subtraction","service":"user-service"}

@@ -1,6 +1,7 @@
 const express= require("express");
 const app= express();
 const fs = require('fs');
+const path = require("path");
 const winston = require('winston');
 const logger = winston.createLogger({
     level: 'info',
@@ -25,7 +26,12 @@ const logger = winston.createLogger({
       format: winston.format.simple(),
     }));
   }
-const add= (n1,n2) => {
+
+app.get("/", (req,res)=>{
+  res.sendFile(path.join(__dirname, "index.html"));
+})
+
+  const add= (n1,n2) => {
     return n1+n2;
 }
 app.get("/add", (req,res)=>{
