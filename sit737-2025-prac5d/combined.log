@@ -1,0 +1,8 @@
+{"level":"info","message":"Parameters 2 and 3 received for exponentiation","service":"calculator-microservice"}
+{"level":"error","message":"num1 is incorrectly defined","service":"calculator-microservice"}
+{"level":"info","message":"Parameter 25 received for square root","service":"calculator-microservice"}
+{"level":"info","message":"Parameter 0 received for square root","service":"calculator-microservice"}
+{"level":"info","message":"Parameter -10 received for square root","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 8 and 3 received for modulo","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 4 and 8 received for modulo","service":"calculator-microservice"}
+{"level":"error","message":"num2 is incorrectly defined","service":"calculator-microservice"}
