@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: mypod
+  labels:
+    run: mypod
+spec:
+  containers:
+    - name: mynode
+      image: sit737-2025-prac6c:v2
+      imagePullPolicy: Never
+      ports:
+        - containerPort: 3040
